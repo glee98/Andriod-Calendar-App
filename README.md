@@ -1,4 +1,4 @@
-# fb_auth
+# Android Calendar App
 
 As part of our main project for our CIS 454: Software Implementation course at Syracuse University, taught by Prof. Chilukuri K. Mohan
 
